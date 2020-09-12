@@ -1,0 +1,9 @@
+FileVersion = 1
+
+[Project]
+Name = "SampleListener"
+StartupObject = "SampleListener.Program"
+
+[Platform.Windows]
+Company = "jairopaiva"
+ProductVersion = "20200912"
